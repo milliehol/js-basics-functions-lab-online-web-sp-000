@@ -8,8 +8,8 @@ distance = 1;
 if (distance2 = 1)
 distance2 = 8;
 
-if (distance3 = 8)
-distance3 = 1;
+if (distance3 = 1)
+distance3 = 8;
 
 return distance, distance2, distance3;
 
