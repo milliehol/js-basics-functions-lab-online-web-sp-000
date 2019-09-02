@@ -2,11 +2,11 @@
 
 function distanceFromHqInBlocks(distance1, distance2, distance3){
 
-if (distance1 === 43)
-distance1 = 100;
+//if (distance1 === 43)
+//distance1 = 100;
 
-else if (distance1 === 8)
-distance1 = 100;
+//else if (distance1 === 8)
+//distance1 = 100;
 
 if (distance2 = 50)
 distance2 = 8;
