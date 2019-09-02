@@ -1,6 +1,6 @@
 // Code your solution in this file!
 
-distanceFromHqInBlocks(){
+function distanceFromHqInBlocks(){
 
 let distance;
 
