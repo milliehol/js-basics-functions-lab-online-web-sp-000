@@ -15,10 +15,10 @@ return distance, distance2, distance3;
 
 }
 
-function distanceFromHqInFeet(distance, distance2, distance3){
+function distanceFromHqInFeet(distance1, distance2, distance3){
 
-if (distance = 43)
-distance = 264;
+if (distance1 = 43)
+distance1 = 264;
 
 if (distance2 = 50)
 distance2 = 2112;
