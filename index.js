@@ -53,3 +53,27 @@ distance1 = 1584;
 return distance1;
 
 }
+
+function calculatesFarePrice(distance1){
+
+if (distance1 === 43)
+distance1 = 1320;
+
+if (distance1 === 48)
+distance1 = 1320;
+
+if (distance1 === 50)
+distance1 = 2640;
+
+if (distance1 === 60)
+distance1 = 2640;
+
+if (distance1 === 34)
+distance1 = 1584;
+
+if (distance1 === 28)
+distance1 = 1584;
+
+return distance1;
+
+}
