@@ -29,3 +29,18 @@ distance1 = 2112;
 return distance1;
 
 }
+
+function distanceTravelledInFeet(distance1){
+
+if (distance1 === 43)
+distance1 = 264;
+
+if (distance1 === 50)
+distance1 = 2112;
+
+if (distance1 === 34)
+distance1 = 2112;
+
+return distance1;
+
+}
