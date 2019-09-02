@@ -33,10 +33,10 @@ return distance1;
 function distanceTravelledInFeet(distance1){
 
 if (distance1 === 43)
-distance1 = 264;
+distance1 = 1320;
 
-if (distance1 === 50)
-distance1 = 2112;
+if (distance1 === 48)
+distance1 = 1320;
 
 if (distance1 === 34)
 distance1 = 2112;
