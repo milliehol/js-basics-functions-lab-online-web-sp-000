@@ -2,7 +2,8 @@
 
 function distanceFromHqInBlocks(distance){
 
-
+if (distance = 43)
+distance = 43-42;
 
 return distance;
 
