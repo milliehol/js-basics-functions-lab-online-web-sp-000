@@ -15,7 +15,7 @@ return distance, distance2, distance3;
 
 }
 
-function distanceFromHqInBlocks(distance, distance2, distance3){
+function distanceFromHqInFeet(distance, distance2, distance3){
 
 if (distance = 43)
 distance = 264;
