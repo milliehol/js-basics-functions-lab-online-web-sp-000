@@ -56,16 +56,16 @@ return distance1;
 
 function calculatesFarePrice(distance1, distance2){
 
-if (distance1 === 43 && distance 2 === )
+if (distance1 === 43 && distance2 === )
 result = 0;
 
-if (distance1 === 43 && distance 2 === )
+if (distance1 === 43 && distance2 === )
 result = 0;
 
-if (distance1 === 43 && distance 2 === )
+if (distance1 === 43 && distance2 === )
 result = 0;
 
-if (distance1 === 43 && distance 2 === )
+if (distance1 === 43 && distance2 === )
 result = 0;
 
 
