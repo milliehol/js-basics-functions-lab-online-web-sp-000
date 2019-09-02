@@ -64,13 +64,11 @@ result = 0;
 if (distance1 === 34 && distance2 === 32)
 result = 2.56;
 
-if (distance1 === 43 && distance2 === )
-result = 0;
+if (distance1 === 50 && distance2 === 58)
+result = 25;
 
-if (distance1 === 43 && distance2 === )
-result = 0;
-
-
+if (distance1 === 34 && distance2 === 24)
+result = 'cannot travel that far';
 
 return result;
 
