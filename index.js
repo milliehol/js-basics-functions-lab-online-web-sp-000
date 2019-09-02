@@ -1,14 +1,14 @@
 // Code your solution in this file!
 
-function distanceFromHqInBlocks(distance){
+function distanceFromHqInBlocks(distance, distance2){
 
 if (distance = 43)
 distance = 43-42;
 
-else if (distance = 1)
+if (distance2 = 1)
 distance = 8;
 
-return distance;
+return distance, distance2;
 
 
 
